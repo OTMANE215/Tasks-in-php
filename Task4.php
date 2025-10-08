@@ -13,7 +13,7 @@
 
 <!-- 
 Bonus: make it case-insensitive :
-
+// this example from chatgpt
 function IsPalindrome($word) {
     $word = strtolower($word);
     return strrev($word) === $word;
